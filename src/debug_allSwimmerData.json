@@ -1,0 +1,2067 @@
+﻿[
+    {
+        "Name":  "Oliver Laszlo",
+        "Tiref":  1482325,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "2:47.26",
+                                    "Seconds":  167.26,
+                                    "Meet":  "422"
+                                },
+                                {
+                                    "Date":  "2025-03-23",
+                                    "Course":  "LC",
+                                    "Time":  "2:48.38",
+                                    "Seconds":  168.38,
+                                    "Meet":  "413"
+                                },
+                                {
+                                    "Date":  "2025-04-06",
+                                    "Course":  "LC",
+                                    "Time":  "2:48.04",
+                                    "Seconds":  168.04,
+                                    "Meet":  "416"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "2:55.65",
+                                    "Seconds":  175.65,
+                                    "Meet":  "364"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "2:43.64",
+                                    "Seconds":  163.64,
+                                    "Meet":  "450"
+                                },
+                                {
+                                    "Date":  "2025-05-26",
+                                    "Course":  "LC",
+                                    "Time":  "2:48.96",
+                                    "Seconds":  168.96,
+                                    "Meet":  "409"
+                                },
+                                {
+                                    "Date":  "2025-06-22",
+                                    "Course":  "LC",
+                                    "Time":  "2:42.56",
+                                    "Seconds":  162.56,
+                                    "Meet":  "459"
+                                },
+                                {
+                                    "Date":  "2025-07-05",
+                                    "Course":  "LC",
+                                    "Time":  "2:42.84",
+                                    "Seconds":  162.84,
+                                    "Meet":  "457"
+                                },
+                                {
+                                    "Date":  "2025-07-20",
+                                    "Course":  "LC",
+                                    "Time":  "2:39.97",
+                                    "Seconds":  159.97,
+                                    "Meet":  "482"
+                                },
+                                {
+                                    "Date":  "2025-08-01",
+                                    "Course":  "LC",
+                                    "Time":  "2:34.28",
+                                    "Seconds":  154.28,
+                                    "Meet":  "538"
+                                },
+                                {
+                                    "Date":  "2025-08-01",
+                                    "Course":  "LC",
+                                    "Time":  "2:40.97",
+                                    "Seconds":  160.97,
+                                    "Meet":  "473"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1482325\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  11
+    },
+    {
+        "Name":  "Lucas Yu",
+        "Tiref":  1659523,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-23",
+                                    "Course":  "LC",
+                                    "Time":  "2:53.82",
+                                    "Seconds":  173.82,
+                                    "Meet":  "376"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "2:51.02",
+                                    "Seconds":  171.02,
+                                    "Meet":  "394"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "2:51.65",
+                                    "Seconds":  171.65,
+                                    "Meet":  "390"
+                                },
+                                {
+                                    "Date":  "2025-06-21",
+                                    "Course":  "LC",
+                                    "Time":  "2:43.61",
+                                    "Seconds":  163.61,
+                                    "Meet":  "451"
+                                },
+                                {
+                                    "Date":  "2025-08-01",
+                                    "Course":  "LC",
+                                    "Time":  "2:38.41",
+                                    "Seconds":  158.41,
+                                    "Meet":  "497"
+                                },
+                                {
+                                    "Date":  "2025-08-01",
+                                    "Course":  "LC",
+                                    "Time":  "2:41.16",
+                                    "Seconds":  161.16,
+                                    "Meet":  "472"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1659523\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  6
+    },
+    {
+        "Name":  "Arthur Foran",
+        "Tiref":  1690439,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-01-25",
+                                    "Course":  "LC",
+                                    "Time":  "3:12.24",
+                                    "Seconds":  192.24,
+                                    "Meet":  "278"
+                                },
+                                {
+                                    "Date":  "2025-03-16",
+                                    "Course":  "LC",
+                                    "Time":  "3:08.00",
+                                    "Seconds":  188,
+                                    "Meet":  "297"
+                                },
+                                {
+                                    "Date":  "2025-04-05",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.55",
+                                    "Seconds":  187.55,
+                                    "Meet":  "299"
+                                },
+                                {
+                                    "Date":  "2025-04-05",
+                                    "Course":  "LC",
+                                    "Time":  "3:02.15",
+                                    "Seconds":  182.15,
+                                    "Meet":  "326"
+                                },
+                                {
+                                    "Date":  "2025-04-13",
+                                    "Course":  "LC",
+                                    "Time":  "3:02.71",
+                                    "Seconds":  182.71,
+                                    "Meet":  "323"
+                                },
+                                {
+                                    "Date":  "2025-04-13",
+                                    "Course":  "LC",
+                                    "Time":  "3:02.97",
+                                    "Seconds":  182.97,
+                                    "Meet":  "322"
+                                },
+                                {
+                                    "Date":  "2025-12-20",
+                                    "Course":  "LC",
+                                    "Time":  "2:43.51",
+                                    "Seconds":  163.51,
+                                    "Meet":  "451"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1690439\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  7
+    },
+    {
+        "Name":  "Dewi Fordyce",
+        "Tiref":  1658051,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-15",
+                                    "Course":  "LC",
+                                    "Time":  "2:58.09",
+                                    "Seconds":  178.09,
+                                    "Meet":  "349"
+                                },
+                                {
+                                    "Date":  "2025-04-12",
+                                    "Course":  "LC",
+                                    "Time":  "2:57.85",
+                                    "Seconds":  177.85,
+                                    "Meet":  "351"
+                                },
+                                {
+                                    "Date":  "2025-04-12",
+                                    "Course":  "LC",
+                                    "Time":  "2:55.20",
+                                    "Seconds":  175.2,
+                                    "Meet":  "367"
+                                },
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "2:51.12",
+                                    "Seconds":  171.12,
+                                    "Meet":  "394"
+                                },
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "2:54.31",
+                                    "Seconds":  174.31,
+                                    "Meet":  "373"
+                                },
+                                {
+                                    "Date":  "2025-06-21",
+                                    "Course":  "LC",
+                                    "Time":  "2:59.22",
+                                    "Seconds":  179.22,
+                                    "Meet":  "343"
+                                },
+                                {
+                                    "Date":  "2025-07-20",
+                                    "Course":  "LC",
+                                    "Time":  "2:57.52",
+                                    "Seconds":  177.52,
+                                    "Meet":  "353"
+                                },
+                                {
+                                    "Date":  "2025-08-01",
+                                    "Course":  "LC",
+                                    "Time":  "2:56.17",
+                                    "Seconds":  176.17000000000002,
+                                    "Meet":  "361"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1658051\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  8
+    },
+    {
+        "Name":  "Evan Lau",
+        "Tiref":  1720027,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-16",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.39",
+                                    "Seconds":  181.39,
+                                    "Meet":  "331"
+                                },
+                                {
+                                    "Date":  "2025-04-12",
+                                    "Course":  "LC",
+                                    "Time":  "2:56.35",
+                                    "Seconds":  176.35,
+                                    "Meet":  "360"
+                                },
+                                {
+                                    "Date":  "2025-05-04",
+                                    "Course":  "LC",
+                                    "Time":  "2:51.58",
+                                    "Seconds":  171.57999999999998,
+                                    "Meet":  "391"
+                                },
+                                {
+                                    "Date":  "2025-05-04",
+                                    "Course":  "LC",
+                                    "Time":  "2:55.06",
+                                    "Seconds":  175.06,
+                                    "Meet":  "368"
+                                },
+                                {
+                                    "Date":  "2025-08-01",
+                                    "Course":  "LC",
+                                    "Time":  "2:53.24",
+                                    "Seconds":  173.24,
+                                    "Meet":  "379"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1720027\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Luke Wallace",
+        "Tiref":  1669390,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-23",
+                                    "Course":  "LC",
+                                    "Time":  "3:12.84",
+                                    "Seconds":  192.84,
+                                    "Meet":  "275"
+                                },
+                                {
+                                    "Date":  "2025-03-15",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.93",
+                                    "Seconds":  187.93,
+                                    "Meet":  "297"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "2:58.32",
+                                    "Seconds":  178.32,
+                                    "Meet":  "348"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "2:57.69",
+                                    "Seconds":  177.69,
+                                    "Meet":  "352"
+                                },
+                                {
+                                    "Date":  "2025-11-30",
+                                    "Course":  "LC",
+                                    "Time":  "2:52.59",
+                                    "Seconds":  172.59,
+                                    "Meet":  "384"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1669390\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Sam Clarke",
+        "Tiref":  1689934,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.54",
+                                    "Seconds":  183.54,
+                                    "Meet":  "319"
+                                },
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:08.43",
+                                    "Seconds":  188.43,
+                                    "Meet":  "295"
+                                },
+                                {
+                                    "Date":  "2025-03-16",
+                                    "Course":  "LC",
+                                    "Time":  "3:12.33",
+                                    "Seconds":  192.33,
+                                    "Meet":  "277"
+                                },
+                                {
+                                    "Date":  "2025-04-13",
+                                    "Course":  "LC",
+                                    "Time":  "3:00.85",
+                                    "Seconds":  180.85,
+                                    "Meet":  "334"
+                                },
+                                {
+                                    "Date":  "2025-04-13",
+                                    "Course":  "LC",
+                                    "Time":  "3:00.25",
+                                    "Seconds":  180.25,
+                                    "Meet":  "337"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "2:56.08",
+                                    "Seconds":  176.07999999999998,
+                                    "Meet":  "361"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "2:59.81",
+                                    "Seconds":  179.81,
+                                    "Meet":  "339"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1689934\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  7
+    },
+    {
+        "Name":  "Aleksander Palka",
+        "Tiref":  1668216,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:13.10",
+                                    "Seconds":  193.1,
+                                    "Meet":  "274"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:10.40",
+                                    "Seconds":  190.4,
+                                    "Meet":  "286"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.72",
+                                    "Seconds":  187.72,
+                                    "Meet":  "298"
+                                },
+                                {
+                                    "Date":  "2025-11-22",
+                                    "Course":  "LC",
+                                    "Time":  "2:56.48",
+                                    "Seconds":  176.48,
+                                    "Meet":  "359"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1668216\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  4
+    },
+    {
+        "Name":  "Bran Acuavera",
+        "Tiref":  1677985,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-23",
+                                    "Course":  "LC",
+                                    "Time":  "3:00.90",
+                                    "Seconds":  180.9,
+                                    "Meet":  "333"
+                                },
+                                {
+                                    "Date":  "2025-03-15",
+                                    "Course":  "LC",
+                                    "Time":  "3:00.19",
+                                    "Seconds":  180.19,
+                                    "Meet":  "337"
+                                },
+                                {
+                                    "Date":  "2025-03-22",
+                                    "Course":  "LC",
+                                    "Time":  "2:58.47",
+                                    "Seconds":  178.47,
+                                    "Meet":  "347"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "2:59.87",
+                                    "Seconds":  179.87,
+                                    "Meet":  "339"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.71",
+                                    "Seconds":  181.71,
+                                    "Meet":  "329"
+                                },
+                                {
+                                    "Date":  "2025-07-19",
+                                    "Course":  "LC",
+                                    "Time":  "2:57.57",
+                                    "Seconds":  177.57,
+                                    "Meet":  "352"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1677985\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  6
+    },
+    {
+        "Name":  "Rahul Reedha",
+        "Tiref":  1516602,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:14.26",
+                                    "Seconds":  194.26,
+                                    "Meet":  "269"
+                                },
+                                {
+                                    "Date":  "2025-07-06",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.92",
+                                    "Seconds":  183.92,
+                                    "Meet":  "317"
+                                },
+                                {
+                                    "Date":  "2025-12-21",
+                                    "Course":  "LC",
+                                    "Time":  "2:57.91",
+                                    "Seconds":  177.91,
+                                    "Meet":  "350"
+                                },
+                                {
+                                    "Date":  "2025-12-21",
+                                    "Course":  "LC",
+                                    "Time":  "3:00.65",
+                                    "Seconds":  180.65,
+                                    "Meet":  "335"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1516602\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  4
+    },
+    {
+        "Name":  "Zachary Cornwell",
+        "Tiref":  1648740,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:16.18",
+                                    "Seconds":  196.18,
+                                    "Meet":  "261"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:17.80",
+                                    "Seconds":  197.8,
+                                    "Meet":  "255"
+                                },
+                                {
+                                    "Date":  "2026-01-11",
+                                    "Course":  "LC",
+                                    "Time":  "2:58.80",
+                                    "Seconds":  178.8,
+                                    "Meet":  "345"
+                                },
+                                {
+                                    "Date":  "2026-01-11",
+                                    "Course":  "LC",
+                                    "Time":  "2:58.92",
+                                    "Seconds":  178.92000000000002,
+                                    "Meet":  "344"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1648740\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  4
+    },
+    {
+        "Name":  "Noeh Smith",
+        "Tiref":  1675365,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:11.54",
+                                    "Seconds":  191.54,
+                                    "Meet":  "281"
+                                },
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:13.47",
+                                    "Seconds":  193.47,
+                                    "Meet":  "272"
+                                },
+                                {
+                                    "Date":  "2025-09-14",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.80",
+                                    "Seconds":  181.8,
+                                    "Meet":  "328"
+                                },
+                                {
+                                    "Date":  "2025-11-22",
+                                    "Course":  "LC",
+                                    "Time":  "2:59.31",
+                                    "Seconds":  179.31,
+                                    "Meet":  "342"
+                                },
+                                {
+                                    "Date":  "2026-01-18",
+                                    "Course":  "LC",
+                                    "Time":  "2:58.89",
+                                    "Seconds":  178.89,
+                                    "Meet":  "345"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1675365\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Edward Shepherd",
+        "Tiref":  1501710,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.03",
+                                    "Seconds":  187.03,
+                                    "Meet":  "301"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "2:59.34",
+                                    "Seconds":  179.34,
+                                    "Meet":  "342"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.03",
+                                    "Seconds":  183.03,
+                                    "Meet":  "322"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1501710\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "Boris Kaloyanov",
+        "Tiref":  1576714,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-01",
+                                    "Course":  "LC",
+                                    "Time":  "3:19.27",
+                                    "Seconds":  199.27,
+                                    "Meet":  "249"
+                                },
+                                {
+                                    "Date":  "2025-03-22",
+                                    "Course":  "LC",
+                                    "Time":  "3:16.49",
+                                    "Seconds":  196.49,
+                                    "Meet":  "260"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "3:10.85",
+                                    "Seconds":  190.85,
+                                    "Meet":  "284"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.93",
+                                    "Seconds":  187.93,
+                                    "Meet":  "297"
+                                },
+                                {
+                                    "Date":  "2025-12-13",
+                                    "Course":  "LC",
+                                    "Time":  "2:59.50",
+                                    "Seconds":  179.5,
+                                    "Meet":  "341"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1576714\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Daniel Ma",
+        "Tiref":  1616614,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-23",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.55",
+                                    "Seconds":  183.55,
+                                    "Meet":  "319"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "2:59.59",
+                                    "Seconds":  179.59,
+                                    "Meet":  "341"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "2:59.67",
+                                    "Seconds":  179.67000000000002,
+                                    "Meet":  "340"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1616614\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "George Swales",
+        "Tiref":  1618674,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-08",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.03",
+                                    "Seconds":  185.03,
+                                    "Meet":  "311"
+                                },
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.28",
+                                    "Seconds":  187.28,
+                                    "Meet":  "300"
+                                },
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.28",
+                                    "Seconds":  183.28,
+                                    "Meet":  "320"
+                                },
+                                {
+                                    "Date":  "2025-06-21",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.55",
+                                    "Seconds":  185.55,
+                                    "Meet":  "309"
+                                },
+                                {
+                                    "Date":  "2026-01-10",
+                                    "Course":  "LC",
+                                    "Time":  "2:59.61",
+                                    "Seconds":  179.61,
+                                    "Meet":  "340"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1618674\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Raditya Bimantara",
+        "Tiref":  1739080,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:27.19",
+                                    "Seconds":  207.19,
+                                    "Meet":  "222"
+                                },
+                                {
+                                    "Date":  "2025-04-06",
+                                    "Course":  "LC",
+                                    "Time":  "3:15.11",
+                                    "Seconds":  195.11,
+                                    "Meet":  "266"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "3:12.11",
+                                    "Seconds":  192.11,
+                                    "Meet":  "278"
+                                },
+                                {
+                                    "Date":  "2025-09-21",
+                                    "Course":  "LC",
+                                    "Time":  "3:09.42",
+                                    "Seconds":  189.42,
+                                    "Meet":  "290"
+                                },
+                                {
+                                    "Date":  "2025-11-22",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.68",
+                                    "Seconds":  185.68,
+                                    "Meet":  "308"
+                                },
+                                {
+                                    "Date":  "2026-01-04",
+                                    "Course":  "LC",
+                                    "Time":  "2:59.75",
+                                    "Seconds":  179.75,
+                                    "Meet":  "340"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1739080\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  6
+    },
+    {
+        "Name":  "William Newman-Carter",
+        "Tiref":  1694319,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:13.68",
+                                    "Seconds":  193.68,
+                                    "Meet":  "271"
+                                },
+                                {
+                                    "Date":  "2025-06-21",
+                                    "Course":  "LC",
+                                    "Time":  "3:08.58",
+                                    "Seconds":  188.58,
+                                    "Meet":  "294"
+                                },
+                                {
+                                    "Date":  "2026-01-18",
+                                    "Course":  "LC",
+                                    "Time":  "3:00.46",
+                                    "Seconds":  180.46,
+                                    "Meet":  "336"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1694319\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "Jude Andrews-Kumah",
+        "Tiref":  1765517,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-01-25",
+                                    "Course":  "LC",
+                                    "Time":  "3:24.60",
+                                    "Seconds":  204.6,
+                                    "Meet":  "230"
+                                },
+                                {
+                                    "Date":  "2025-04-05",
+                                    "Course":  "LC",
+                                    "Time":  "3:15.52",
+                                    "Seconds":  195.52,
+                                    "Meet":  "264"
+                                },
+                                {
+                                    "Date":  "2025-04-05",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.44",
+                                    "Seconds":  183.44,
+                                    "Meet":  "320"
+                                },
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "3:00.48",
+                                    "Seconds":  180.48,
+                                    "Meet":  "336"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1765517\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  4
+    },
+    {
+        "Name":  "Aiden Doorbeejan",
+        "Tiref":  1635980,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.34",
+                                    "Seconds":  187.34,
+                                    "Meet":  "300"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.65",
+                                    "Seconds":  181.65,
+                                    "Meet":  "329"
+                                },
+                                {
+                                    "Date":  "2025-07-05",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.02",
+                                    "Seconds":  181.02,
+                                    "Meet":  "333"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1635980\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "Ethan Craven",
+        "Tiref":  1474537,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-08",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.07",
+                                    "Seconds":  181.07,
+                                    "Meet":  "332"
+                                },
+                                {
+                                    "Date":  "2025-04-05",
+                                    "Course":  "LC",
+                                    "Time":  "3:04.11",
+                                    "Seconds":  184.11,
+                                    "Meet":  "316"
+                                },
+                                {
+                                    "Date":  "2025-04-05",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.46",
+                                    "Seconds":  181.46,
+                                    "Meet":  "330"
+                                },
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.66",
+                                    "Seconds":  186.66,
+                                    "Meet":  "303"
+                                },
+                                {
+                                    "Date":  "2025-12-20",
+                                    "Course":  "LC",
+                                    "Time":  "3:08.42",
+                                    "Seconds":  188.42,
+                                    "Meet":  "295"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1474537\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Kevin Varga",
+        "Tiref":  1477447,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-08",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.81",
+                                    "Seconds":  181.81,
+                                    "Meet":  "328"
+                                },
+                                {
+                                    "Date":  "2025-04-12",
+                                    "Course":  "LC",
+                                    "Time":  "3:04.05",
+                                    "Seconds":  184.05,
+                                    "Meet":  "316"
+                                },
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.71",
+                                    "Seconds":  183.71,
+                                    "Meet":  "318"
+                                },
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.62",
+                                    "Seconds":  185.62,
+                                    "Meet":  "308"
+                                },
+                                {
+                                    "Date":  "2025-05-25",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.09",
+                                    "Seconds":  181.09,
+                                    "Meet":  "332"
+                                },
+                                {
+                                    "Date":  "2025-07-06",
+                                    "Course":  "LC",
+                                    "Time":  "3:08.21",
+                                    "Seconds":  188.21,
+                                    "Meet":  "296"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1477447\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  6
+    },
+    {
+        "Name":  "Harrison Han",
+        "Tiref":  1699368,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-04-06",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.05",
+                                    "Seconds":  185.05,
+                                    "Meet":  "311"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.11",
+                                    "Seconds":  181.11,
+                                    "Meet":  "332"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.67",
+                                    "Seconds":  181.67,
+                                    "Meet":  "329"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1699368\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "Benjamin Piscopo",
+        "Tiref":  1509373,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "3:16.27",
+                                    "Seconds":  196.27,
+                                    "Meet":  "261"
+                                },
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "3:14.64",
+                                    "Seconds":  194.64,
+                                    "Meet":  "267"
+                                },
+                                {
+                                    "Date":  "2026-01-10",
+                                    "Course":  "LC",
+                                    "Time":  "3:01.55",
+                                    "Seconds":  181.55,
+                                    "Meet":  "330"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1509373\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "Luca Frampton",
+        "Tiref":  1705245,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:10.25",
+                                    "Seconds":  190.25,
+                                    "Meet":  "286"
+                                },
+                                {
+                                    "Date":  "2025-03-23",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.74",
+                                    "Seconds":  183.74,
+                                    "Meet":  "318"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "3:02.32",
+                                    "Seconds":  182.32,
+                                    "Meet":  "326"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.51",
+                                    "Seconds":  185.51,
+                                    "Meet":  "309"
+                                },
+                                {
+                                    "Date":  "2025-07-12",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.06",
+                                    "Seconds":  183.06,
+                                    "Meet":  "322"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1705245\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Leo Zhang-Wei",
+        "Tiref":  1623672,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1623672\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  0
+    },
+    {
+        "Name":  "Maximus Tsang",
+        "Tiref":  1677658,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-08",
+                                    "Course":  "LC",
+                                    "Time":  "3:15.15",
+                                    "Seconds":  195.15,
+                                    "Meet":  "265"
+                                },
+                                {
+                                    "Date":  "2025-03-09",
+                                    "Course":  "LC",
+                                    "Time":  "3:12.77",
+                                    "Seconds":  192.77,
+                                    "Meet":  "275"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:11.45",
+                                    "Seconds":  191.45,
+                                    "Meet":  "281"
+                                },
+                                {
+                                    "Date":  "2025-12-21",
+                                    "Course":  "LC",
+                                    "Time":  "3:02.64",
+                                    "Seconds":  182.64,
+                                    "Meet":  "324"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1677658\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  4
+    },
+    {
+        "Name":  "James Oscroft",
+        "Tiref":  1489277,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-08",
+                                    "Course":  "LC",
+                                    "Time":  "3:09.29",
+                                    "Seconds":  189.29,
+                                    "Meet":  "291"
+                                },
+                                {
+                                    "Date":  "2025-03-16",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.61",
+                                    "Seconds":  187.61,
+                                    "Meet":  "299"
+                                },
+                                {
+                                    "Date":  "2025-04-20",
+                                    "Course":  "LC",
+                                    "Time":  "3:10.94",
+                                    "Seconds":  190.94,
+                                    "Meet":  "283"
+                                },
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:08.42",
+                                    "Seconds":  188.42,
+                                    "Meet":  "295"
+                                },
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.88",
+                                    "Seconds":  186.88,
+                                    "Meet":  "302"
+                                },
+                                {
+                                    "Date":  "2025-07-06",
+                                    "Course":  "LC",
+                                    "Time":  "3:04.44",
+                                    "Seconds":  184.44,
+                                    "Meet":  "314"
+                                },
+                                {
+                                    "Date":  "2025-12-21",
+                                    "Course":  "LC",
+                                    "Time":  "3:02.79",
+                                    "Seconds":  182.79,
+                                    "Meet":  "323"
+                                },
+                                {
+                                    "Date":  "2025-12-21",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.85",
+                                    "Seconds":  183.85,
+                                    "Meet":  "317"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1489277\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  8
+    },
+    {
+        "Name":  "Nicholas Diakodimitris",
+        "Tiref":  1424739,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-08",
+                                    "Course":  "LC",
+                                    "Time":  "3:19.67",
+                                    "Seconds":  199.67000000000002,
+                                    "Meet":  "248"
+                                },
+                                {
+                                    "Date":  "2025-12-20",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.05",
+                                    "Seconds":  183.05,
+                                    "Meet":  "322"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1424739\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  2
+    },
+    {
+        "Name":  "Charlie Edwards",
+        "Tiref":  1781850,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-07-12",
+                                    "Course":  "LC",
+                                    "Time":  "3:10.45",
+                                    "Seconds":  190.45,
+                                    "Meet":  "286"
+                                },
+                                {
+                                    "Date":  "2025-12-20",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.07",
+                                    "Seconds":  183.07,
+                                    "Meet":  "322"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1781850\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  2
+    },
+    {
+        "Name":  "Tianze Yi",
+        "Tiref":  1718434,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-08",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.16",
+                                    "Seconds":  185.16,
+                                    "Meet":  "311"
+                                },
+                                {
+                                    "Date":  "2025-03-15",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.59",
+                                    "Seconds":  187.59,
+                                    "Meet":  "299"
+                                },
+                                {
+                                    "Date":  "2025-03-15",
+                                    "Course":  "LC",
+                                    "Time":  "3:08.85",
+                                    "Seconds":  188.85,
+                                    "Meet":  "293"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.15",
+                                    "Seconds":  183.15,
+                                    "Meet":  "321"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.89",
+                                    "Seconds":  186.89,
+                                    "Meet":  "302"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1718434\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Lucas Solomitchi",
+        "Tiref":  1635044,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-16",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.85",
+                                    "Seconds":  187.85,
+                                    "Meet":  "298"
+                                },
+                                {
+                                    "Date":  "2025-04-12",
+                                    "Course":  "LC",
+                                    "Time":  "3:08.82",
+                                    "Seconds":  188.82,
+                                    "Meet":  "293"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.18",
+                                    "Seconds":  183.18,
+                                    "Meet":  "321"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.85",
+                                    "Seconds":  185.85,
+                                    "Meet":  "307"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1635044\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  4
+    },
+    {
+        "Name":  "Joshua Crofts",
+        "Tiref":  1610277,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-08",
+                                    "Course":  "LC",
+                                    "Time":  "3:04.89",
+                                    "Seconds":  184.89,
+                                    "Meet":  "312"
+                                },
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.23",
+                                    "Seconds":  183.23,
+                                    "Meet":  "321"
+                                },
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:04.48",
+                                    "Seconds":  184.48,
+                                    "Meet":  "314"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1610277\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "Quanren Chen",
+        "Tiref":  1502617,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-15",
+                                    "Course":  "LC",
+                                    "Time":  "3:08.67",
+                                    "Seconds":  188.67,
+                                    "Meet":  "294"
+                                },
+                                {
+                                    "Date":  "2025-03-15",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.81",
+                                    "Seconds":  185.81,
+                                    "Meet":  "307"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.88",
+                                    "Seconds":  183.88,
+                                    "Meet":  "317"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:04.04",
+                                    "Seconds":  184.04,
+                                    "Meet":  "316"
+                                },
+                                {
+                                    "Date":  "2025-07-12",
+                                    "Course":  "LC",
+                                    "Time":  "3:12.77",
+                                    "Seconds":  192.77,
+                                    "Meet":  "275"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1502617\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Adam Shipley",
+        "Tiref":  1510440,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.26",
+                                    "Seconds":  186.26,
+                                    "Meet":  "305"
+                                },
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:03.91",
+                                    "Seconds":  183.91,
+                                    "Meet":  "317"
+                                },
+                                {
+                                    "Date":  "2025-03-23",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.13",
+                                    "Seconds":  186.13,
+                                    "Meet":  "306"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.01",
+                                    "Seconds":  186.01,
+                                    "Meet":  "306"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.44",
+                                    "Seconds":  185.44,
+                                    "Meet":  "309"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1510440\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Aiden Driver",
+        "Tiref":  1725017,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1725017\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  0
+    },
+    {
+        "Name":  "Kenny Millsom",
+        "Tiref":  1677231,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-09",
+                                    "Course":  "LC",
+                                    "Time":  "3:17.16",
+                                    "Seconds":  197.16,
+                                    "Meet":  "257"
+                                },
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "3:04.24",
+                                    "Seconds":  184.24,
+                                    "Meet":  "315"
+                                },
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.53",
+                                    "Seconds":  185.53,
+                                    "Meet":  "309"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1677231\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "Kieran Crawford",
+        "Tiref":  1473454,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:22.70",
+                                    "Seconds":  202.7,
+                                    "Meet":  "237"
+                                },
+                                {
+                                    "Date":  "2025-04-06",
+                                    "Course":  "LC",
+                                    "Time":  "3:11.27",
+                                    "Seconds":  191.27,
+                                    "Meet":  "282"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "3:12.51",
+                                    "Seconds":  192.51,
+                                    "Meet":  "276"
+                                },
+                                {
+                                    "Date":  "2025-09-21",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.59",
+                                    "Seconds":  186.59,
+                                    "Meet":  "304"
+                                },
+                                {
+                                    "Date":  "2025-12-20",
+                                    "Course":  "LC",
+                                    "Time":  "3:04.56",
+                                    "Seconds":  184.56,
+                                    "Meet":  "314"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1473454\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Austin Forster",
+        "Tiref":  1607052,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:17.59",
+                                    "Seconds":  197.59,
+                                    "Meet":  "256"
+                                },
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:09.98",
+                                    "Seconds":  189.98,
+                                    "Meet":  "288"
+                                },
+                                {
+                                    "Date":  "2025-04-13",
+                                    "Course":  "LC",
+                                    "Time":  "3:18.42",
+                                    "Seconds":  198.42000000000002,
+                                    "Meet":  "252"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "3:13.20",
+                                    "Seconds":  193.2,
+                                    "Meet":  "273"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "3:12.19",
+                                    "Seconds":  192.19,
+                                    "Meet":  "278"
+                                },
+                                {
+                                    "Date":  "2025-07-13",
+                                    "Course":  "LC",
+                                    "Time":  "3:04.59",
+                                    "Seconds":  184.59,
+                                    "Meet":  "314"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1607052\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  6
+    },
+    {
+        "Name":  "Ollie Castings",
+        "Tiref":  1469256,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-01",
+                                    "Course":  "LC",
+                                    "Time":  "3:27.13",
+                                    "Seconds":  207.13,
+                                    "Meet":  "222"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "3:09.13",
+                                    "Seconds":  189.13,
+                                    "Meet":  "292"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "3:04.84",
+                                    "Seconds":  184.84,
+                                    "Meet":  "312"
+                                },
+                                {
+                                    "Date":  "2025-12-20",
+                                    "Course":  "LC",
+                                    "Time":  "3:04.60",
+                                    "Seconds":  184.6,
+                                    "Meet":  "314"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1469256\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  4
+    },
+    {
+        "Name":  "Samuel Scott",
+        "Tiref":  1588766,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-23",
+                                    "Course":  "LC",
+                                    "Time":  "3:12.56",
+                                    "Seconds":  192.56,
+                                    "Meet":  "276"
+                                },
+                                {
+                                    "Date":  "2025-03-22",
+                                    "Course":  "LC",
+                                    "Time":  "3:11.91",
+                                    "Seconds":  191.91,
+                                    "Meet":  "279"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.09",
+                                    "Seconds":  185.09,
+                                    "Meet":  "311"
+                                },
+                                {
+                                    "Date":  "2025-04-26",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.35",
+                                    "Seconds":  186.35,
+                                    "Meet":  "305"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1588766\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  4
+    },
+    {
+        "Name":  "Frank Attewell-Smith",
+        "Tiref":  1651284,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-01-29",
+                                    "Course":  "LC",
+                                    "Time":  "3:29.82",
+                                    "Seconds":  209.82,
+                                    "Meet":  "213"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:19.52",
+                                    "Seconds":  199.52,
+                                    "Meet":  "248"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:17.30",
+                                    "Seconds":  197.3,
+                                    "Meet":  "257"
+                                },
+                                {
+                                    "Date":  "2026-01-11",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.13",
+                                    "Seconds":  185.13,
+                                    "Meet":  "311"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1651284\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  4
+    },
+    {
+        "Name":  "Logan Bates",
+        "Tiref":  1610478,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-05-03",
+                                    "Course":  "LC",
+                                    "Time":  "3:18.17",
+                                    "Seconds":  198.17000000000002,
+                                    "Meet":  "253"
+                                },
+                                {
+                                    "Date":  "2025-09-14",
+                                    "Course":  "LC",
+                                    "Time":  "3:11.99",
+                                    "Seconds":  191.99,
+                                    "Meet":  "279"
+                                },
+                                {
+                                    "Date":  "2026-01-18",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.31",
+                                    "Seconds":  185.31,
+                                    "Meet":  "310"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1610478\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "Oscar He",
+        "Tiref":  1704254,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1704254\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  0
+    },
+    {
+        "Name":  "Oscar Muller",
+        "Tiref":  1663059,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-23",
+                                    "Course":  "LC",
+                                    "Time":  "3:10.85",
+                                    "Seconds":  190.85,
+                                    "Meet":  "284"
+                                },
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.38",
+                                    "Seconds":  185.38,
+                                    "Meet":  "310"
+                                },
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.49",
+                                    "Seconds":  185.49,
+                                    "Meet":  "309"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1663059\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "Izaak Wilsher",
+        "Tiref":  1671037,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-09",
+                                    "Course":  "LC",
+                                    "Time":  "3:09.94",
+                                    "Seconds":  189.94,
+                                    "Meet":  "288"
+                                },
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.48",
+                                    "Seconds":  185.48,
+                                    "Meet":  "309"
+                                },
+                                {
+                                    "Date":  "2025-05-10",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.01",
+                                    "Seconds":  186.01,
+                                    "Meet":  "306"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1671037\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "Ethan Mendez Lerin",
+        "Tiref":  1664687,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-02",
+                                    "Course":  "LC",
+                                    "Time":  "3:13.38",
+                                    "Seconds":  193.38,
+                                    "Meet":  "273"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.26",
+                                    "Seconds":  187.26,
+                                    "Meet":  "300"
+                                },
+                                {
+                                    "Date":  "2025-04-27",
+                                    "Course":  "LC",
+                                    "Time":  "3:05.87",
+                                    "Seconds":  185.87,
+                                    "Meet":  "307"
+                                },
+                                {
+                                    "Date":  "2025-06-22",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.06",
+                                    "Seconds":  187.06,
+                                    "Meet":  "301"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1664687\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  4
+    },
+    {
+        "Name":  "Eliseo Beck",
+        "Tiref":  1618073,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-03-15",
+                                    "Course":  "LC",
+                                    "Time":  "3:10.46",
+                                    "Seconds":  190.46,
+                                    "Meet":  "285"
+                                },
+                                {
+                                    "Date":  "2025-03-15",
+                                    "Course":  "LC",
+                                    "Time":  "3:07.07",
+                                    "Seconds":  187.07,
+                                    "Meet":  "301"
+                                },
+                                {
+                                    "Date":  "2025-05-04",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.23",
+                                    "Seconds":  186.23,
+                                    "Meet":  "305"
+                                },
+                                {
+                                    "Date":  "2025-05-04",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.45",
+                                    "Seconds":  186.45,
+                                    "Meet":  "304"
+                                },
+                                {
+                                    "Date":  "2025-07-12",
+                                    "Course":  "LC",
+                                    "Time":  "3:13.60",
+                                    "Seconds":  193.6,
+                                    "Meet":  "272"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1618073\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    },
+    {
+        "Name":  "Alfred Birch",
+        "Tiref":  1630766,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-01",
+                                    "Course":  "LC",
+                                    "Time":  "3:09.68",
+                                    "Seconds":  189.68,
+                                    "Meet":  "289"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "3:15.71",
+                                    "Seconds":  195.71,
+                                    "Meet":  "263"
+                                },
+                                {
+                                    "Date":  "2026-01-17",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.33",
+                                    "Seconds":  186.33,
+                                    "Meet":  "305"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1630766\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  3
+    },
+    {
+        "Name":  "David Grigore",
+        "Tiref":  1736900,
+        "Club":  null,
+        "YOB":  2013,
+        "LcTime":  null,
+        "HistoricalTimes":  [
+                                {
+                                    "Date":  "2025-02-01",
+                                    "Course":  "LC",
+                                    "Time":  "3:17.14",
+                                    "Seconds":  197.14,
+                                    "Meet":  "257"
+                                },
+                                {
+                                    "Date":  "2025-05-11",
+                                    "Course":  "LC",
+                                    "Time":  "3:15.13",
+                                    "Seconds":  195.13,
+                                    "Meet":  "265"
+                                },
+                                {
+                                    "Date":  "2025-06-21",
+                                    "Course":  "LC",
+                                    "Time":  "3:13.25",
+                                    "Seconds":  193.25,
+                                    "Meet":  "273"
+                                },
+                                {
+                                    "Date":  "2025-07-13",
+                                    "Course":  "LC",
+                                    "Time":  "3:15.94",
+                                    "Seconds":  195.94,
+                                    "Meet":  "262"
+                                },
+                                {
+                                    "Date":  "2025-12-13",
+                                    "Course":  "LC",
+                                    "Time":  "3:06.48",
+                                    "Seconds":  186.48,
+                                    "Meet":  "304"
+                                }
+                            ],
+        "PersonalBestUrl":  "https://www.swimmingresults.org/individualbest/personal_best_time_date.php?back=12months\u0026Pool=L\u0026Stroke=9\u0026Sex=M\u0026AgeGroup=13\u0026date-1-dd=31\u0026date-1-mm=12\u0026date-1=2026\u0026StartNumber=1\u0026RecordsToView=100\u0026Level=N\u0026TargetClub=XXXX\u0026TargetRegion=P\u0026TargetCounty=XXXX\u0026TargetNationality=E\u0026tiref=1736900\u0026mode=L\u0026tstroke=9\u0026tcourse=L",
+        "HistoricalCount":  5
+    }
+]
